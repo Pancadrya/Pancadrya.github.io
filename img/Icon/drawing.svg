@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="419.56247"
+     inkscape:cy="559.18622"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g54883">
+      <rect
+         style="fill:#008080;stroke:#800000;stroke-width:0.264583"
+         id="rect68"
+         width="66.568962"
+         height="71.323891"
+         x="49.743839"
+         y="131.30911" />
+      <rect
+         style="fill:#00ffff;stroke:#800000;stroke-width:0.279104"
+         id="rect70"
+         width="46.441956"
+         height="47.65955"
+         x="86.325203"
+         y="118.39208"
+         inkscape:transform-center-y="-0.37826052"
+         inkscape:transform-center-x="2.809346e-06" />
+      <path
+         style="fill:#2f3030;fill-opacity:1;stroke:#800000;stroke-width:1.38241"
+         d="M 189.39064,631.07172 V 497.66883 h 68.42946 68.42946 v 64.97343 64.97343 h 55.98775 55.98774 v 68.42946 68.42946 H 313.80784 189.39064 Z"
+         id="path54681"
+         transform="scale(0.26458333)" />
+    </g>
+  </g>
+</svg>
